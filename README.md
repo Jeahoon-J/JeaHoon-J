@@ -1,32 +1,40 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=270bb7&height=120&text=header_test&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> test </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> sub_detail_test </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:fpdlwo@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:fpdlwo@gamil.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jung Jaehoon&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung Jaehoon&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
+# 👋 Hi there, I'm Jaehoon Jung
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Banner" width="100%">
+</p>
+
+<h3 align="center">
+  <code>&gt; Jaehoon Jung</code><br>
+  <strong>🤖 AI Engineer · LLM Engineer · Data Analyst</strong>
+</h3>
+
+<p align="center">
+  🇰🇷 Korea &nbsp; • &nbsp; 🧠 AI & LLM &nbsp; • &nbsp; 📊 Data Analytics &nbsp; • &nbsp; 🚀 Intelligent Systems
+</p>
+
+<p align="center">
+  Building intelligent solutions from data to deployment.
+</p>
+
+<br>
+
+---
+
+## 🧰 Tech Stack
+
+| 🧠 AI & LLM Engineering | ⚙️ Backend Development | 📊 Data Analytics |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" /> <br> <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" /> <br> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" /> <br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+
+| 🗄️ Vector Database | ☁️ Cloud & Infrastructure | 🚀 DevOps & MLOps |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Qdrant-FF6600?style=for-the-badge" /> <br> <img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge" /> | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <br> <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge" /> <br> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br> <img src="https://img.shields.io/badge/RunPod-7B2CBF?style=for-the-badge" /> |
+
+---
+
+<p align="center">
+  <strong>
+  Turning Data into Intelligence, Intelligence into Products.
+  </strong>
+</p>
