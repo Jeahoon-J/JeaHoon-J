@@ -5,16 +5,37 @@
 </p>
 
 <h3 align="center">
-🤖 AI Engineer · LLM Engineer · Data Analyst
+🤖 AI Engineer · LLM Application Engineer · AI Service Developer
 </h3>
 
 <p align="center">
-🇰🇷 Korea • LLM Applications • RAG Systems • AI Services
+LLM Applications • Multi Agent • RAG Systems • Conversational AI
 </p>
 
-<p align="center">
-Building intelligent systems from data to deployment.
-</p>
+---
+
+## 👨‍💻 About Me
+
+ **SK네트웍스 Family AI 캠프**에서 AI 서비스 개발 과정을 진행하며 LLM 기반 서비스 설계 및 개발 역량을 강화하고 있습니다.
+
+석사 과정에서는 특허 및 텍스트 데이터를 활용한 기술 경쟁력 분석 연구를 수행하였으며, NLP와 데이터 분석을 기반으로 데이터에서 인사이트를 도출하고 의사결정을 지원하는 경험을 쌓았습니다.
+
+최근에는 **AI-DLC 플랫폼** 개발을 통해 요구사항 분석, 문서 이해 및 산출물 자동화 시스템을 구축하였고, **Visa Interview AI Assistant** 프로젝트를 통해 대화형 AI 서비스와 지식 검색 기반 챗봇 서비스를 구현했습니다.
+
+데이터와 문서에 담긴 지식을 이해하고, 이를 실제 서비스와 업무 자동화로 연결하는 LLM 서비스 개발자를 지향합니다.
+
+---
+
+## 🚀 Key Expertise
+
+* 📄 SI 요구사항 분석 및 문서 기반 AI 업무 자동화 시스템 개발
+* 🤖 AI Agent 및 Multi-Agent Workflow 설계·구현
+* 🔍 sLLM & RAG 기반 지식 검색 및 문서 이해 서비스 구축
+* 💬 대화형 AI 챗봇 및 사용자 맞춤형 인터랙션 개발
+* ⚙️ AI 서비스 기획부터 Backend·배포까지 End-to-End 개발
+* 📊 NLP 및 데이터 분석 기반 비즈니스 인사이트 도출
+* ☁️ AI 서비스 운영을 위한 클라우드·인프라 환경 구축
+
 
 ---
 <h2 align="center">🛠️ Tech Stack</h2>
