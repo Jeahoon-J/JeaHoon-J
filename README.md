@@ -99,7 +99,8 @@
 **Tech**  
 `Python` `LangGraph` `Gemma3` `Ollama` `FastAPI` `Django` `MySQL / AWS RDS` `Web Search` `SSE`
 
-[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-4th-5Team)
+[1st 멀티에이전트 구현 Repository](https://github.com/Jeahoon-J/VISA-LA-VISTA-1st)
+[2nd 웹서비스 구현 Repository](https://github.com/Jeahoon-J/VISA-LA-VISTA-2nd)
 
 ---
 
