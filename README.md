@@ -45,10 +45,6 @@
   <img src="https://img.shields.io/badge/GitHub-JeaHoon--J-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-View-1E56D8?style=for-the-badge"/>
-</a>
-
 </div>
 
 ---
@@ -82,7 +78,7 @@
 **Tech**  
 `Python` `PyTorch` `Hugging Face` `QLoRA` `LangGraph` `Qdrant` `FastAPI` `Django` `AWS` `RunPod`
 
-[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-FINAL-3Team) · [Portfolio Detail](YOUR_PORTFOLIO_URL)
+[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-FINAL-3Team)
 
 <br/>
 
@@ -103,7 +99,7 @@
 **Tech**  
 `Python` `LangGraph` `Gemma3` `Ollama` `FastAPI` `Django` `MySQL / AWS RDS` `Web Search` `SSE`
 
-[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-4th-5Team) · [Portfolio Detail](YOUR_PORTFOLIO_URL)
+[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-4th-5Team)
 
 ---
 
@@ -190,10 +186,6 @@
 
 <a href="https://github.com/JeaHoon-J">
   <img src="https://img.shields.io/badge/GitHub-JeaHoon--J-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-View-1E56D8?style=for-the-badge"/>
 </a>
 
 </div>
