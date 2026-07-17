@@ -2,42 +2,52 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:5B86E5,100:36D1DC&height=110&section=header"/>
 
-</div>
-
-<div align="center">
-
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71%2C50:5B86E5%2C100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Jaehoon%20Jung&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" 
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71%2C50:5B86E5%2C100:36D1DC&height=250&section=header&text=Hello%2C%20I%27m%20Jaehoon%20Jung&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
   />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71%2C50:5B86E5%2C100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Jaehoon%20Jung&fontSize=46&fontColor=111111&fontAlignY=38&animation=fadeIn" 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71%2C50:5B86E5%2C100:36D1DC&height=250&section=header&text=Hello%2C%20I%27m%20Jaehoon%20Jung&fontSize=46&fontColor=111111&fontAlignY=38&animation=fadeIn"
   />
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20Jaehoon%20Jung&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" 
-    alt="Header Banner" 
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:3A1C71,50:5B86E5,100:36D1DC&height=250&section=header&text=Hello%2C%20I%27m%20Jaehoon%20Jung&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    alt="Header Banner"
   />
 </picture>
 
 <br/>
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=750&lines=LLM+Engineer+%26+AI+Service+Developer;LLM+%C2%B7+RAG+%C2%B7+Multi-Agent;LangGraph+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" 
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=780&lines=AI+Service+Developer+%C2%B7+LLM+Engineer;Document+AI+%C2%B7+RAG+%C2%B7+Agent+%C2%B7+Fine-tuning;FastAPI+%C2%B7+Django+%C2%B7+LangGraph+%C2%B7+Qdrant"
   />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=111111&center=true&vCenter=true&width=750&lines=LLM+Engineer+%26+AI+Service+Developer;LLM+%C2%B7+RAG+%C2%B7+Multi-Agent;LangGraph+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=111111&center=true&vCenter=true&width=780&lines=AI+Service+Developer+%C2%B7+LLM+Engineer;Document+AI+%C2%B7+RAG+%C2%B7+Agent+%C2%B7+Fine-tuning;FastAPI+%C2%B7+Django+%C2%B7+LangGraph+%C2%B7+Qdrant"
   />
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=750&lines=LLM+Engineer+%26+AI+Service+Developer;LLM+%C2%B7+RAG+%C2%B7+Multi-Agent;LangGraph+%C2%B7+FastAPI+%C2%B7+Qdrant+%C2%B7+RunPod" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36D1DC&center=true&vCenter=true&width=780&lines=AI+Service+Developer+%C2%B7+LLM+Engineer;Document+AI+%C2%B7+RAG+%C2%B7+Agent+%C2%B7+Fine-tuning;FastAPI+%C2%B7+Django+%C2%B7+LangGraph+%C2%B7+Qdrant"
+    alt="Typing SVG"
   />
 </picture>
+
+<br/>
+
+<a href="mailto:fpdlwo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-fpdlwo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JeaHoon-J">
+  <img src="https://img.shields.io/badge/GitHub-JeaHoon--J-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-View-1E56D8?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -45,180 +55,128 @@
 
 ## About Me
 
-안녕하세요. 저는 **LLM Engineer**와 **AI Service Developer**를 목표로 성장하고 있는 개발자입니다.
+비정형 도메인 문서를 구조화하고, **RAG·Agent·Fine-tuning 기능을 실제 AI 서비스로 구현하는 개발자**입니다.
 
-단순한 LLM 호출을 넘어, 문서 분석·요구사항 추출·RAG 검색·모델 추론·Multi-Agent Workflow를 하나의 서비스 흐름으로 연결하는 구조를 구현합니다.
-
-현재는 sLLM과 멀티 에이전트 구조를 활용해 요구사항 정의서, 화면설계서, ERD, 테스트 시나리오 등  
-AI-DLC 산출물을 자동 생성하는 기업 문서 자동화 플랫폼 **ALPLED**를 진행하고 있습니다.
+- LangGraph 기반 Agent Workflow 및 조건부 Routing 설계
+- QLoRA 멀티태스크 Fine-tuning과 정량 평가·품질 검증
+- FastAPI·Django 기반 AI 기능 연동과 서비스 운영 경험
+- RFP·회의록·특허 텍스트 구조화 및 분석 경험
 
 ---
 
-## GitHub Activity
+## Featured Projects
 
-<div align="center">
+### ALPLED
+**sLLM 기반 CBD 산출물 생성·추적 Multi-Agent Platform**
 
-<a href="https://github.com/JeaHoon-J">
-  <img src="https://img.shields.io/badge/GitHub-JeaHoon--J-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+나라장터 RFP와 회의록을 분석해 요구사항 정의서 등 CBD 산출물 6종을 생성하고, 변경 추적과 정합성 검증을 지원하는 플랫폼입니다.
 
-<a href="https://github.com/JeaHoon-J?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- Requirement Agent 및 Architecture Agent 설계·구현
+- Task1~3 데이터셋과 QLoRA 멀티태스크 Adapter 설계
+- JSON Schema·Requirement ID 기반 구조 및 추적성 검증
+- WBS 기반 일정 관리와 팀 이슈 조율 수행
 
-</div>
+**Result**  
+`Requirement F1 0.4810 → 0.9201` · `Recall 0.3345 → 0.8569`
+
+**Tech**  
+`Python` `PyTorch` `Hugging Face` `QLoRA` `LangGraph` `Qdrant` `FastAPI` `Django` `AWS` `RunPod`
+
+[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-FINAL-3Team) · [Portfolio Detail](YOUR_PORTFOLIO_URL)
+
+<br/>
+
+### VISA LA VISTA
+**SQL Agent 기반 해외 대학 입시 정보 챗봇**
+
+내부 MySQL DB에서 대학 정보를 우선 조회하고, 미등록 질문은 공식 웹 검색으로 전환해 근거 기반 답변을 제공하는 AI 서비스입니다.
+
+- LangGraph 기반 SQL Agent Workflow 구현
+- Query 검증·Self-Correction·재시도 로직 적용
+- DB 결과 없음 시 Web Search Fallback 전환
+- Django·FastAPI·MySQL 연동 및 SSE 최종 응답 전달
+- `user_id·chat_id` 기반 대화 이력 저장
+
+**Validation**  
+`DB 등록 대학 질문 정확 응답 50/50` · `검색 전환 및 공식 출처 경로 검증`
+
+**Tech**  
+`Python` `LangGraph` `Gemma3` `Ollama` `FastAPI` `Django` `MySQL / AWS RDS` `Web Search` `SSE`
+
+[Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-4th-5Team) · [Portfolio Detail](YOUR_PORTFOLIO_URL)
+
+---
+
+## Research & Publication
+
+### A data-driven approach to establishing a patent strategy by generating a patent map based on generative topographic mapping
+**제1저자 · 데이터 분석 · 모델 설계 · 논문 작성**
+
+특허 청구항을 SAO 구조로 변환하고, GTM 기반 기술 포지셔닝과 공백 기술·전략 패턴을 분석한 연구입니다.
+
+- Technology Nodes `1,600`
+- Vacant Nodes `637`
+- Pattern Candidates `110`
+- Top 4 우선 특허 전략 도출
+- SSCI 저널 *Technological Forecasting and Social Change* 게재
+
+[Paper](https://drive.google.com/file/d/1mJ-fuK-m4-yinEn7PfBqeI-I8WnF-Tha/view?usp=drive_link)
+
+---
+
+## Collaboration Projects
+
+- **식약처** — 블록체인 기반 식품 이력추적·공유주방 안전관리 데이터 흐름 및 플랫폼 구조 정리
+- **아모레퍼시픽** — SIRI 기반 스마트팩토리 기술 수준 평가 항목 및 결과 구조화
+- **광개토연구소** — 특허 데이터 전처리·SAO 분석·BLEU/ROUGE 기반 생성 텍스트 평가
+- **유수소프트** — 이미지 분석 기반 반려동물 추천 서비스 적용 방향 정리
 
 ---
 
 ## Tech Stack
 
-### AI / LLM / RAG
+### LLM / Agent / Evaluation
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-5B86E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fine--Tuning-DC143C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLoRA-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-5B86E5?style=for-the-badge"/>
 </p>
 
-### Backend
+### Backend / Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RunPod-6C3BF7?style=for-the-badge"/>
 </p>
 
-### Data / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedding-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20Search-FF4D4D?style=for-the-badge"/>
-</p>
-
-### Database / Vector DB
+### Data / Storage
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
-
-### Infra / DevOps / Tools
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RunPod-6C3BF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### Frontend / Other Languages
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
-## Project Experience
-
-### 🔹 ALPLED  
-**AI-dLc Platform for sLLM Enterprise Documentation**
-
-sLLM, RAG, AI Agent 기반으로 기업 문서 자동화를 지원하는 플랫폼 프로젝트입니다.
-
-**Tech Stack**  
-`Django` `FastAPI` `AWS EC2` `AWS RDS` `AWS S3` `RunPod` `Qdrant` `Hugging Face` `sLLM` `RAG` `LangGraph`
-
-<details>
-<summary><b>View Details</b></summary>
-
-<br/>
-
-- LangGraph 기반 Multi-Agent Workflow 설계 및 구현
-- Supervisor 기반 AI Agent 오케스트레이션 구조 설계
-- RFP와 회의록 기반 요구사항 정의서 생성 구조 설계
-- 요구사항 정의서 JSON과 프로토타입 이미지를 활용한 사용자 인터페이스 설계서 생성 구조 설계
-- RAG 기반 기술표준·규정·비기능 요구사항 검색 구조 적용
-- Qdrant Vector DB 기반 RAG 검색 구조 적용
-- RunPod GPU 환경 기반 sLLM 추론 구조 설계
-- Hugging Face 기반 모델 관리 및 LoRA Fine-tuning 데이터 활용
-- Django Web App Server와 FastAPI AI Agent Server 분리 구조 설계
-- AWS EC2, RDS, S3 기반 서비스 배포 환경 구축
-
-</details>
-
-<br/>
-
-### 🔹 Viva la Visa  
-**AI-based Study Abroad & F-1 Visa Interview Helper Chatbot**
-
-미국 유학 준비생을 위해 분산된 대학 입시 정보를 통합 제공하고,  
-F-1 비자 인터뷰를 연습할 수 있도록 지원하는 **RAG 기반 멀티 에이전트 챗봇** 프로젝트입니다.
-
-**Tech Stack**  
-`Python` `MySQL` `Pandas` `Playwright` `LangChain` `LangGraph` `ChromaDB` `BAAI/bge-m3` `Ollama` `Gemma3` `Hugging Face` `Streamlit` `RAG` `Multi-Agent`
-
-<details>
-<summary><b>View Details</b></summary>
-
-<br/>
-
-- 미국 주요 대학 입학 정보 및 비자 인터뷰 관련 데이터를 수집·전처리
-- Playwright 기반 웹 데이터 수집 후 LLM을 활용한 JSON 구조화
-- MySQL 기반 RDB를 구축하여 학교 정보, 입학 정보, 요구사항, FAQ 데이터 관리
-- Hugging Face F1 Visa Interview Dataset을 활용한 RAG용 Q&A 데이터 구성
-- BAAI/bge-m3 임베딩 모델과 ChromaDB 기반 벡터 검색 구조 적용
-- LangChain, LangGraph 기반 멀티 에이전트 워크플로우 설계
-- Ollama 기반 로컬 sLLM을 활용하여 개인정보 보호 중심의 답변 생성 구조 설계
-- 입시지원 챗봇과 비자 모의면접 챗봇 기능 구현
-- STT, TTS를 활용한 비자 인터뷰 음성 평가 기능 개선 시도
-
-</details>
 
 ---
 
 ## Education & Training
 
-  
-- **SKN24 Family AI Camp**  
-  AI / Machine Learning / Deep Learning / LLM / RAG / Backend-based AI Service Development
+- **동국대학교 일반대학원 · 산업시스템공학 석사 졸업
+  - [데이터 테크놀로지·기술경영 연구실](https://sites.google.com/dgu.ac.kr/dtmlab/home?authuser=0)
+  - 특허·NLP 기반 기술 포지셔닝 및 전략 연구
 
-
-## Areas of Interest
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agent-7B68EE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/sLLM-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-5B86E5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Fine--Tuning-DC143C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-092E20?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20Service-36D1DC?style=flat-square"/>
-</p>
+- **SK Networks Family AI Camp 24기**
+  - Machine Learning · Deep Learning · LLM · RAG · Agent · AI Service Development
 
 ---
 
@@ -232,6 +190,10 @@ F-1 비자 인터뷰를 연습할 수 있도록 지원하는 **RAG 기반 멀티
 
 <a href="https://github.com/JeaHoon-J">
   <img src="https://img.shields.io/badge/GitHub-JeaHoon--J-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-View-1E56D8?style=for-the-badge"/>
 </a>
 
 </div>
